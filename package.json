@@ -1,0 +1,9 @@
+{ 
+"name" : "chattytalker-client",
+"version" : "0.0.1",
+"description" : "",
+"main" : "index.js",
+"dependencies" :{
+  "socket.io-client":"*"
+}
+}
